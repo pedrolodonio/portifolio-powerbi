@@ -27,6 +27,9 @@ Este dashboard foi desenvolvido durante o primeiro módulo do **curso de Power B
 ✅ Tipo de jogo favorito na Europa
 
 ## 🖼 **Preview do Dashboard**  
+
+![Módulo 1](images/preview modulo 1.png)
+
  
 
 ## 🔗 **Como Abrir e Explorar**  
