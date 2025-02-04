@@ -4,6 +4,8 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos meus principais projetos uti
 
 ## 📂 **Projetos**  
 
-💼 **[LinkedIn](https://www.linkedin.com/in/pedrolodonio/)**  
+### 📈 1. Dashboard de Vendas dos Jogos de Playstation 4 Globalmente 
+📌 **Descrição:** Análise de Vendas por Região, Jogos mais vendidos, Publishers com mais vendas.  
+🔗 **[Acesse o projeto](https://github.com/pedrolodonio/portfolio-powerbi/tree/main/Dashboard-VendasPS4)**  
 
-🚀 **Feito por Pedro**  
+
