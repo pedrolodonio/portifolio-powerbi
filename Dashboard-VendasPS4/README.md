@@ -28,10 +28,10 @@ Este dashboard foi desenvolvido durante o primeiro módulo do **curso de Power B
 
 ## 🖼 **Preview do Dashboard**  
 
-![Módulo 1](https://github.com/pedrolodonio/portifolio-powerbi/blob/main/images/desafio%201.PNG)
-
-
- 
+**Módulo 1**
+![Módulo 1](https://github.com/pedrolodonio/portifolio-powerbi/blob/main/images/modulo%201.PNG)
+**Desafio 1**
+![Desafio 1](https://github.com/pedrolodonio/portifolio-powerbi/blob/main/images/desafio%201.PNG)
 
 ## 🔗 **Como Abrir e Explorar**  
 1. Baixe o arquivo **Dashboard-VendasPS4.pbix**  
