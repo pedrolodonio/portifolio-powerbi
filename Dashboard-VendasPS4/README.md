@@ -28,7 +28,8 @@ Este dashboard foi desenvolvido durante o primeiro módulo do **curso de Power B
 
 ## 🖼 **Preview do Dashboard**  
 
-![Módulo 1](images/preview modulo 1.png)
+![Módulo 1]([https://raw.githubusercontent.com/pedro/meu-repo/main/images/dashboard.png)
+
 
  
 
