@@ -1,4 +1,4 @@
-# 📊 Dashboard de [Nome do Projeto]  
+# 📊 Dashboard de Vendas PS4 
 
 Este dashboard foi desenvolvido durante o primeiro módulo do **curso de Power BI** ministrado pelo instrutor **André Lacono**. O objetivo foi aplicar conceitos essenciais de modelagem de dados, criação de visualizações e construção de métricas com **DAX**.  
 
