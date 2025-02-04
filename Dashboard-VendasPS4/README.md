@@ -13,12 +13,17 @@ Este dashboard foi desenvolvido durante o primeiro módulo do **curso de Power B
 ## 📊 **Principais Análises do Dashboard**
 
 **Módulo 1**
+
 ✅ Vendas totais separadas por região 
+
 ✅ Os 10 jogos mais vendidos globalmente
+
 ✅ Os 10 jogos mais vendidos na América do Norte
+
 ✅ As 10 publishers com o maior número de vendas
 
 **Desafio 1**
+
 ✅ Tipo de jogo favorito na Europa
 
 ## 🖼 **Preview do Dashboard**  
