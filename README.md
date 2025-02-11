@@ -13,6 +13,5 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos meus principais projetos uti
 
 ### 📈 3. Dashboard de Supermercado
 📌 **Descrição:** Análise de Dados de Vendas de um Supermercado.
-
 🔗 **[Acesse o projeto](https://github.com/pedrolodonio/portifolio-powerbi/tree/main/Dashboard-Supermarket)**  
 
