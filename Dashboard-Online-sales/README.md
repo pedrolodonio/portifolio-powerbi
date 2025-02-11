@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas PS4 
+# 📊 Dashboard de Vendas Online
 
 Este dashboard foi desenvolvido durante o quinto módulo do **curso de Power BI** ministrado pelo instrutor **André Lacono**. O objetivo foi aplicar os diferentes tipos de modelos de visualização que o power bi possui.
 
