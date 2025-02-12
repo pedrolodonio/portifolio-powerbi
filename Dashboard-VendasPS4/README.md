@@ -1,6 +1,6 @@
 # 📊 Dashboard de Vendas PS4 
 
-Este dashboard foi desenvolvido durante o primeiro módulo do **curso de Power BI** ministrado pelo instrutor **André Lacono**. O objetivo foi aplicar conceitos essenciais de modelagem de dados, criação de visualizações.
+Este dashboard foi desenvolvido durante o primeiro módulo do **curso de Power BI** ministrado pelo instrutor **André Iacono**. O objetivo foi aplicar conceitos essenciais de modelagem de dados, criação de visualizações.
 
 ## 📌 **Descrição do Projeto**  
 📊 **Tema:** Análise de vendas dos jogos de Playstation 4   
