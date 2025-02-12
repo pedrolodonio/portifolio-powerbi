@@ -1,6 +1,6 @@
 # 📊 Dashboard de Vendas Online
 
-Este dashboard foi desenvolvido durante o quinto módulo do **curso de Power BI** ministrado pelo instrutor **André Lacono**. O objetivo foi aplicar os diferentes tipos de modelos de visualização que o power bi possui.
+Este dashboard foi desenvolvido durante o quinto módulo do **curso de Power BI** ministrado pelo instrutor **André Iacono**. O objetivo foi aplicar os diferentes tipos de modelos de visualização que o power bi possui.
 
 ## 📌 **Descrição do Projeto**  
 📊 **Tema:** Análise de vendas online de produtos variados   
